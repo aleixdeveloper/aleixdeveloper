@@ -1,3 +1,5 @@
+![Drag Racing](https://weeklyhow.com/wp-content/uploads/2020/09/image-44.png)
+
 # 💫 About Me:
 
 :globe_with_meridians:I'm currently working on building great interfaces for everyone.<br>:mortar_board:I'm learning TDD and Astro right now.<br>:frog:I have nearly 20 unfinished projects to work on but no time.

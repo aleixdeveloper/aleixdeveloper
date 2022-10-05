@@ -1,4 +1,6 @@
-![Drag Racing](https://weeklyhow.com/wp-content/uploads/2020/09/image-44.png)
+<img src="https://weeklyhow.com/wp-content/uploads/2020/09/image-44.png"
+     alt="Header image laptop"
+     style="height=2em;" />
 
 # 💫 About Me:
 
